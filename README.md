@@ -23,5 +23,4 @@ React 18, React Router 6, Vite, Vitest, React Testing Library
 Push to GitHub, import the repo in Vercel or Netlify (build: `npm run build`, output: `dist`).
 For Netlify add a `_redirects` file in `public/` containing `/* /index.html 200` so page refreshes work on routes.
 
-## Screenshots
-(add here)
+
